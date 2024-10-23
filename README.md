@@ -1,7 +1,7 @@
 # server-tools
 a tool to manage your server
 
-#Info
+# Info
 This will ONLY work on dedicated/bare metal servers, not on a kvm or lxc server.
 
 # Packages
